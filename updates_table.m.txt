@@ -1,0 +1,6 @@
+function updates_table(old_state,action,new_state, reward, alpha)
+global Q_table;  % action space (left, right)
+global gamma;
+%updates the state-action pairs based on future reward
+new_state_Q_value = max(Q_table[new_state])
+Q_table[old_state,action] += alpha * (reward + gamma * new_state_Q_value - Q_table[old_state,action] )
