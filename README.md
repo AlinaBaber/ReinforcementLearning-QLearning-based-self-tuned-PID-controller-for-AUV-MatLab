@@ -71,6 +71,9 @@ Modify values in the script files to adjust simulation settings.
 
 ### Results
 The system demonstrates:
+![c5](https://github.com/user-attachments/assets/ee25cc8d-e610-4d19-bd93-3f83dffcfd8c)
+![Comparison-2](https://github.com/user-attachments/assets/0a875e46-41c5-47fd-8e30-d76ad2424cb8)
+![c12](https://github.com/user-attachments/assets/b779b667-6466-4cff-b182-e253e699ad78)
 
 - Improved navigation accuracy.
 - Enhanced stability under disturbances.
